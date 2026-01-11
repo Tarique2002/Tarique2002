@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Mohd Tarique, a Computer Science undergraduate with a growing passion for Artificial Intelligence and Machine Learning.<br>I’m currently working on Advanced Liver Disorder Detection using AI Techniques, focusing on applying intelligent models to real-world healthcare problems.<br><br>I’m actively learning Artificial Intelligence and continuously improving my skills through hands-on projects and research.<br>I’m open to collaboration with tech companies, research teams, and developers who are interested in building impactful, data-driven solutions.
 🤝 Collaboration
-💼 Looking to collaborate with tech companies, AI research teams, and open-source contributors
+<br><br>💼 Looking to collaborate with tech companies, AI research teams, and open-source contributors
 
 
 ## 🌐 Socials:
