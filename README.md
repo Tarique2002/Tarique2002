@@ -1,29 +1,62 @@
-# 💫 About Me:
-Hi, I’m Mohd Tarique, a Computer Science undergraduate with a growing passion for Artificial Intelligence and Machine Learning.<br>I’m currently working on Advanced Liver Disorder Detection using AI Techniques, focusing on applying intelligent models to real-world healthcare problems.<br><br>I’m actively learning Artificial Intelligence and continuously improving my skills through hands-on projects and research.<br>I’m open to collaboration with tech companies, research teams, and developers who are interested in building impactful, data-driven solutions.<br><br>🤝 Collaboration💼<br> Looking to collaborate with tech companies, AI research teams, and open-source contributors
-## 🌐 Portfolio
-[![Portfolio]( https://img.shields.io/badge/Portfolio-tarique2002.github.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarique2002.github.io)
+<div align="center">
 
+# Mohd. Tarique Ansari
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1813x37ZQd/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8hhly072RnOA6V6QJIcrZg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdtariqueansari8899@gmail.com) 
+**AI & Machine Learning Enthusiast | B.Tech CSE**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tarique2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tarique2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tarique2002.github.io-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://tarique2002.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdtariqueansari8899@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tarique2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tarique2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tarique2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+Computer Science & Engineering student at Amity University Lucknow with a focus on **Artificial Intelligence** and **Machine Learning**. I build intelligent systems that solve real-world problems — particularly in **healthcare diagnostics** and **data-driven decision making**.
+
+Currently working on **Advanced Liver Disorder Detection using AI Techniques**, developing ML-driven clinical decision support systems.
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Glucose Monitoring Prediction](https://github.com/Tarique2002/Glucose-Monitoring-Prediction) | ML-based glucose level prediction for medical institutes | Python, ML, Data Analytics |
+| [Liver Disorder Detection](https://github.com/Tarique2002/Advance-Liver-Disorder) | AI-powered clinical decision support for liver diagnostics | Python, AI, ML |
+
+---
+
+### Skills
+
+**Languages:** &nbsp; Python · Java · C/C++ · SQL  
+**AI/ML:** &nbsp; Machine Learning · Data Science · Data Analytics · DSA  
+**Tools:** &nbsp; MATLAB · MySQL · Google Colab · Excel · Visual Studio
+
+---
+
+### Experience
+
+🔬 **Data Analysis Intern** — Science Tech Institute Lucknow *(Jun–Jul 2025)*  
+🎨 **Template Designer Intern** — A2Z Journals *(Jan–Jul 2023)*
+
+---
+
+### Education
+
+🎓 **B.Tech CSE** — Amity University Lucknow *(2022–2026)* — CGPA: 7.37  
+📜 **Google Cloud Computing Foundations** — NPTEL Certified *(2024)*
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm open to internships, research collaborations, and full-time opportunities in AI/ML.
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarique2002.github.io)
+
+</div>
