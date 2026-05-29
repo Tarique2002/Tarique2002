@@ -88,10 +88,6 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&theme=tokyonight&hide_border=true)
 
-[![Tarique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Tarique2002)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Tarique2002)
-
 </div>
 
 ---
