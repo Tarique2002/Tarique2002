@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,100:7C3AED&amp;height=200&amp;section=header&amp;text=Mohd.%20Tarique%20Ansari&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20B.Tech%20CSE&amp;descSize=16&amp;descAlignY=55&amp;descColor=E0E7FF" width="100%" />
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20B.Tech%20CSE&descSize=16&descAlignY=55&descColor=E0E7FF)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tarique2002.github.io-6366F1?style=for-the-badge)](https://tarique2002.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdtariqueansari8899@gmail.com)
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+Intelligent+Healthcare+Systems;Machine+Learning+%7C+Data+Science;Turning+Data+Into+Decisions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Intelligent+Healthcare+Systems;Machine+Learning+%7C+Data+Science;Turning+Data+Into+Decisions;Open+to+Internships+%26+Collaborations)
 
 </div>
 
@@ -90,12 +86,11 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tarique2002&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=818CF8&amp;text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=818CF8&amp;currStreakLabel=A78BFA" width="48%" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9)
 
-<br>
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" width="40%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
 </div>
 
@@ -126,10 +121,8 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarique2002.github.io)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Tarique2002&color=6366F1&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,100:7C3AED&amp;height=100&amp;section=footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=100&section=footer)
 
 </div>
