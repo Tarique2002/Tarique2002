@@ -44,6 +44,7 @@ ML-based glucose level prediction system helping medical institutes predict high
 AI-powered clinical decision support system for detecting advanced liver disorders using ML techniques.
 
 [![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/Liver-Disorder-Detection)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://liver-disorder-detection-csmbqquxdaomhhrngray8z.streamlit.app/)
 
 `Python` `AI` `Machine Learning` `Healthcare`
 
