@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohd. Tarique Ansari
-
-### AI and Machine Learning Enthusiast | B.Tech CSE
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=55&descColor=E0E7FF)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tarique2002.github.io-6366F1?style=for-the-badge)](https://tarique2002.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
@@ -88,11 +86,11 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=tokyonight&hide_border=true)
+[![Tarique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Tarique2002)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Tarique2002)
 
 </div>
 
@@ -124,5 +122,7 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tarique2002&color=6366F1&style=flat-square&label=Profile+Views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
 
 </div>
