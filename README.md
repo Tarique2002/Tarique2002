@@ -33,6 +33,7 @@
 ML-based glucose level prediction system helping medical institutes predict high glucose levels in patients.
 
 [![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/Glucose-Monitoring-Prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://glucose-monitoring-prediction-qwc6vbatq8cswr4z7kt9ib.streamlit.app/)
 
 `Python` `Machine Learning` `Data Analytics` `Healthcare`
 
