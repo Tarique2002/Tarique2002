@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20B.Tech%20CSE&descSize=16&descAlignY=55&descColor=E0E7FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=55&descColor=E0E7FF)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tarique2002.github.io-6366F1?style=for-the-badge)](https://tarique2002.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdtariqueansari8899@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Intelligent+Healthcare+Systems;Machine+Learning+%7C+Data+Science;Turning+Data+Into+Decisions;Open+to+Internships+%26+Collaborations)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Intelligent+Healthcare+Systems;Machine+Learning+%7C+Data+Science;Turning+Data+Into+Decisions;Open+to+Internships+and+Collaborations)
 
 </div>
 
@@ -123,6 +123,6 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tarique2002&color=6366F1&style=flat-square&label=Profile+Views)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
 
 </div>
