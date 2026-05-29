@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=55&descColor=E0E7FF)
+# 👋 Hi, I'm Mohd. Tarique Ansari
+
+### AI and Machine Learning Enthusiast | B.Tech CSE
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tarique2002.github.io-6366F1?style=for-the-badge)](https://tarique2002.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
@@ -14,11 +16,11 @@
 
 ## 🧠 About
 
-> Computer Science & Engineering student at **Amity University Lucknow** passionate about applying **AI & Machine Learning** to solve real-world problems — especially in **healthcare diagnostics** and **data-driven decision making**.
+> Computer Science and Engineering student at **Amity University Lucknow** passionate about applying **AI and Machine Learning** to solve real-world problems — especially in **healthcare diagnostics** and **data-driven decision making**.
 
 🔭 &nbsp; Currently working on **Advanced Liver Disorder Detection using AI**  
-🌱 &nbsp; Learning **Deep Learning, NLP & Cloud Computing**  
-💼 &nbsp; Open to **internships, research & full-time roles** in AI/ML  
+🌱 &nbsp; Learning **Deep Learning, NLP and Cloud Computing**  
+💼 &nbsp; Open to **internships, research and full-time roles** in AI/ML  
 🌐 &nbsp; Portfolio: **[tarique2002.github.io](https://tarique2002.github.io)**
 
 ---
@@ -86,11 +88,11 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tarique2002&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarique2002&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarique2002&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -108,7 +110,7 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 | Degree | Institution | Score |
 |--------|------------|-------|
 | 🎓 B.Tech CSE | Amity University Lucknow *(2022–2026)* | 7.37 CGPA |
-| 📜 Google Cloud Computing Foundations | NPTEL Certified *(2024)* | ✅ |
+| 📜 Google Cloud Computing | NPTEL Certified *(2024)* | ✅ |
 
 ---
 
@@ -122,7 +124,5 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tarique2002&color=6366F1&style=flat-square&label=Profile+Views)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
 
 </div>
