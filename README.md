@@ -16,14 +16,30 @@
 
 > Computer Science and Engineering student at **Amity University Lucknow** passionate about applying **AI and Machine Learning** to solve real-world problems — especially in **healthcare diagnostics** and **data-driven decision making**.
 
-🔭 &nbsp; Currently working on **Advanced Liver Disorder Detection using AI**  
-🌱 &nbsp; Learning **Deep Learning, NLP and Cloud Computing**  
+🔭 &nbsp; Just shipped **ResumeAI — ATS Resume Optimizer** · [Live Demo](https://resume-optimizer-504sertlb-mohd-tarique-s-projects.vercel.app) · [GitHub](https://github.com/Tarique2002/resume-optimizer)  
+🌱 &nbsp; Learning **Deep Learning, NLP, Full-Stack Development and Cloud Computing**  
 💼 &nbsp; Open to **internships, research and full-time roles** in AI/ML  
 🌐 &nbsp; Portfolio: **[tarique2002.github.io](https://tarique2002.github.io)**
 
 ---
 
 ## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 ResumeAI — ATS Resume Optimizer ⭐ NEW
+Full-stack AI tool that scores resumes against ATS criteria across **9 categories**, matches with job descriptions using TF-IDF, identifies skill gaps, and rewrites bullet points using AI.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/resume-optimizer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7B5EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-optimizer-504sertlb-mohd-tarique-s-projects.vercel.app)
+
+`React` `FastAPI` `Python` `NLP` `TF-IDF` `Full Stack` `AI`
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -71,6 +87,12 @@ AI-powered clinical decision support system for detecting advanced liver disorde
 ![Data Science](https://img.shields.io/badge/Data_Science-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Tools**
 
