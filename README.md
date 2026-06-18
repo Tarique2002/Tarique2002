@@ -4,9 +4,7 @@
 
 ### 🤖 AI & Machine Learning Engineer &nbsp;|&nbsp; 🧠 Full-Stack AI Builder &nbsp;|&nbsp; 🎓 B.Tech CSE
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=45&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Full-Stack+AI+Builder;📊+Data+Science+Enthusiast;🚀+Building+Production+AI+SaaS;💡+Problem+Solver+%7C+Tech+Innovator" alt="Typing SVG" />
-</a>
+*🤖 AI & ML Engineer &nbsp;·&nbsp; 🧠 Full-Stack AI Builder &nbsp;·&nbsp; 📊 Data Science &nbsp;·&nbsp; 🚀 SaaS Builder*
 
 <br/>
 
