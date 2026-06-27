@@ -45,28 +45,69 @@ const tarique = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🤖 BillingAI — AI-Powered Billing System
+### 🤖 BillingAI
+AI-powered multi-tenant SaaS billing platform that auto-configures to your business type.
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-6366f1?style=for-the-badge)](https://billing-ai-8ick.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Tarique2002/-BillingAI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://billing-ai-8ick.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/-BillingAI)
 
-> An intelligent multi-tenant SaaS billing platform that auto-configures itself to your business type using AI.
-> Built for pharmacies, restaurants, retail stores & more.
+`React` `FastAPI` `Tailwind CSS` `JWT` `SQLAlchemy`
 
-| Feature | Tech |
-|---|---|
-| 🧠 AI Setup Wizard | Rule-based config engine |
-| 🔐 Auth | JWT (FastAPI + python-jose) |
-| 📦 Inventory | SQLAlchemy + SQLite/PostgreSQL |
-| 📊 Analytics | Recharts |
-| ✨ UI | React 18 + Tailwind CSS v4 + Framer Motion |
-| ☁️ Deploy | Vercel + Render |
+</td>
+<td width="50%">
 
-</div>
+### 🧰 ToolHub AI
+Modern AI-powered productivity toolkit — background remover, PDF/DOCX converter, image enhancer, and more.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/toolhubai)
+
+`React` `FastAPI` `Python` `OpenCV` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📄 ResumeAI — ATS Optimizer
+Full-stack app analyzing resumes against ATS criteria with TF-IDF job matching and AI suggestions.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/resume-optimizer)
+
+`React` `FastAPI` `Python` `NLP` `AI`
+
+</td>
+<td width="50%">
+
+### 🫀 Liver Disorder Detection
+AI-powered clinical decision support chatbot with Random Forest ML and Google Gemini.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://liver-disorder-detection-csmbqquxdaomhhrngray8z.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/Liver-Disorder-Detection)
+
+`Python` `AI` `Machine Learning` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🩺 Glucose Monitoring Prediction
+ML-powered glucose prediction and diabetes risk assessment with interactive Streamlit dashboard.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://glucose-monitoring-prediction-qwc6vbatq8cswr4z7kt9ib.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/Glucose-Monitoring-Prediction)
+
+`Python` `Machine Learning` `Streamlit` `Healthcare`
+
+</td>
+</tr>
+</table>
 
 ---
 
