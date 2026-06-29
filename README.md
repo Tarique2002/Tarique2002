@@ -1,47 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Tarique&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Mohd.%20Tarique%20Ansari&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=55&descAlign=50&descSize=16" width="100%"/>
 
-</div>
+<img src="https://github.com/Tarique2002.png" width="150" height="150" style="border-radius: 50%;" alt="Mohd. Tarique Ansari" />
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tarique2002.github.io-6366F1?style=for-the-badge)](https://tarique2002.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdtariqueansari8899@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+FastAPI+%2B+TypeScript;Turning+ideas+into+live+products+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Intelligent+Healthcare+Systems;Machine+Learning+%7C+Data+Science;AI-Powered+Interview+Preparation;Turning+Data+Into+Decisions;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧠 About
 
-```ts
-const tarique = {
-  role: "Full Stack Developer",
-  focus: ["AI-powered SaaS", "Web Apps", "APIs"],
-  stack: ["React", "TypeScript", "FastAPI", "Python", "Node.js"],
-  currently: "Building BillingAI — an AI-powered multi-tenant billing system",
-  contact: "github.com/Tarique2002",
-};
-```
+> Computer Science & Engineering student at **Amity University Lucknow** passionate about applying **AI and Machine Learning** to solve real-world problems — especially in **healthcare diagnostics** and **data-driven decision making**.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+🔭 &nbsp; Currently building **InterviewPilot AI** — an AI-powered interview prep platform · [Live Demo](https://interviewpilot-ai-seven.vercel.app/) · [GitHub](https://github.com/Tarique2002/InterviewPilot-AI)  
+🌱 &nbsp; Learning **Deep Learning, NLP, Full-Stack Development and Cloud Computing**  
+💼 &nbsp; Open to **internships, research and full-time roles** in AI/ML  
+🌐 &nbsp; Portfolio: **[tarique2002.github.io](https://tarique2002.github.io)**
 
 ---
 
@@ -49,42 +29,25 @@ const tarique = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🤖 BillingAI
-AI-powered multi-tenant SaaS billing platform that auto-configures to your business type.
+### 🎤 InterviewPilot AI — AI Interview Preparation Platform ⭐ NEW
+Full-stack AI-powered platform that helps users practice mock interviews with real-time feedback, AI-driven question generation, response analysis, and personalized coaching.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://billing-ai-8ick.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/-BillingAI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://interviewpilot-ai-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/InterviewPilot-AI)
 
-`React` `FastAPI` `Tailwind CSS` `JWT` `SQLAlchemy`
-
-</td>
-<td width="50%">
-
-### 🧰 ToolHub AI
-Modern AI-powered productivity toolkit — background remover, PDF/DOCX converter, image enhancer, and more.
-
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/toolhubai)
-
-`React` `FastAPI` `Python` `OpenCV` `AI`
+`React` `JavaScript` `AI` `Full Stack` `Vercel`
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%">
 
-### 📄 ResumeAI — ATS Optimizer
-Full-stack app analyzing resumes against ATS criteria with TF-IDF job matching and AI suggestions.
-
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarique2002/resume-optimizer)
-
-`React` `FastAPI` `Python` `NLP` `AI`
-
-</td>
-<td width="50%">
-
-### 🫀 Liver Disorder Detection
+### 🫀 Liver Disorder Detection using AI
 AI-powered clinical decision support chatbot with Random Forest ML and Google Gemini.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://liver-disorder-detection-csmbqquxdaomhhrngray8z.streamlit.app/)
@@ -93,9 +56,7 @@ AI-powered clinical decision support chatbot with Random Forest ML and Google Ge
 `Python` `AI` `Machine Learning` `Streamlit`
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 ### 🩺 Glucose Monitoring Prediction
 ML-powered glucose prediction and diabetes risk assessment with interactive Streamlit dashboard.
@@ -108,6 +69,43 @@ ML-powered glucose prediction and diabetes risk assessment with interactive Stre
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML / Data**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
@@ -128,7 +126,32 @@ ML-powered glucose prediction and diabetes risk assessment with interactive Stre
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| 🔬 Data Analysis Intern | Science Tech Institute, Lucknow | Jun – Jul 2025 |
+| 🎨 Template Designer Intern | A2Z Journals, Lucknow | Jan – Jul 2023 |
+
+## 🎓 Education
+
+| Degree | Institution | Score |
+|--------|------------|-------|
+| 🎓 B.Tech CSE | Amity University Lucknow *(2022–2026)* | 7.4 CGPA |
+| 📜 Google Cloud Computing | NPTEL Certified *(2024)* | ✅ |
+
+---
+
 <div align="center">
+
+### 🤝 Let's Connect
+
+*I'm actively seeking opportunities in AI/ML — let's build something impactful together.*
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarique2002.github.io)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-tarique-948a37308)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tarique2002&color=6366F1&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
 
